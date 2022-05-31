@@ -1,0 +1,212 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Flunt/1.0.5": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Flunt.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Flunt.dll": {}
+        }
+      },
+      "Flunt.Br/1.4.1": {
+        "type": "package",
+        "dependencies": {
+          "Flunt": "1.0.4"
+        },
+        "compile": {
+          "lib/netstandard2.0/Flunt.Br.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Flunt.Br.dll": {}
+        }
+      },
+      "MediatR/10.0.1": {
+        "type": "package",
+        "dependencies": {
+          "MediatR.Contracts": "1.0.1"
+        },
+        "compile": {
+          "lib/netstandard2.1/MediatR.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/MediatR.dll": {}
+        }
+      },
+      "MediatR.Contracts/1.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/MediatR.Contracts.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/MediatR.Contracts.dll": {}
+        }
+      },
+      "Pottencial.Core.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "MediatR": "10.0.1"
+        },
+        "compile": {
+          "bin/placeholder/Pottencial.Core.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Pottencial.Core.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Flunt/1.0.5": {
+      "sha512": "2p1B/LLsMf0bGwyMQK48/278OXTodXn3HyTU1v7fr/x0bNfrVSNC1Do1PxbgiOlDLChtAbtt1kPgXFqUnGAagg==",
+      "type": "package",
+      "path": "flunt/1.0.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "flunt.1.0.5.nupkg.sha512",
+        "flunt.nuspec",
+        "lib/netstandard2.0/Flunt.dll"
+      ]
+    },
+    "Flunt.Br/1.4.1": {
+      "sha512": "iItaWrug7VcLMWG4c5JySTZK0U4lCmgobF2UDntqb1tq622TE/mH104QI3aRIAPFY6/ev2b3ZYnloTxmnaU1Lg==",
+      "type": "package",
+      "path": "flunt.br/1.4.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "flunt-icon-br_compressed.png",
+        "flunt.br.1.4.1.nupkg.sha512",
+        "flunt.br.nuspec",
+        "lib/netstandard2.0/Flunt.Br.dll"
+      ]
+    },
+    "MediatR/10.0.1": {
+      "sha512": "vnjbk4giDJzJelh34Ygt0eorApCKrRFB7j0pauFPY1oxfO3cEZ7FugBrIOjCM76SDGTOmPFfbfmVnz1t3iFrGA==",
+      "type": "package",
+      "path": "mediatr/10.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "gradient_128x128.png",
+        "lib/netstandard2.1/MediatR.dll",
+        "lib/netstandard2.1/MediatR.xml",
+        "mediatr.10.0.1.nupkg.sha512",
+        "mediatr.nuspec"
+      ]
+    },
+    "MediatR.Contracts/1.0.1": {
+      "sha512": "NsRvOxthhkYml4DcBMyJsmym8C4MchioH7wxKVPEg7plFj9Euh/i4IcmZ3Gvgx6+K8obeuhPeJdoBl56wnuo3A==",
+      "type": "package",
+      "path": "mediatr.contracts/1.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "gradient_128x128.png",
+        "lib/net461/MediatR.Contracts.dll",
+        "lib/net461/MediatR.Contracts.xml",
+        "lib/netstandard2.0/MediatR.Contracts.dll",
+        "lib/netstandard2.0/MediatR.Contracts.xml",
+        "mediatr.contracts.1.0.1.nupkg.sha512",
+        "mediatr.contracts.nuspec"
+      ]
+    },
+    "Pottencial.Core.Model/1.0.0": {
+      "type": "project",
+      "path": "../Pottencial.Core.Model/Pottencial.Core.Model.csproj",
+      "msbuildProject": "../Pottencial.Core.Model/Pottencial.Core.Model.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Flunt >= 1.0.5",
+      "Flunt.Br >= 1.4.1",
+      "MediatR >= 10.0.1",
+      "Pottencial.Core.Model >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\marci\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\marci\\source\\repos\\tech-test-payment-api\\src\\Pottencial.Core\\Pottencial.Core.csproj",
+      "projectName": "Pottencial.Core",
+      "projectPath": "C:\\Users\\marci\\source\\repos\\tech-test-payment-api\\src\\Pottencial.Core\\Pottencial.Core.csproj",
+      "packagesPath": "C:\\Users\\marci\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\marci\\source\\repos\\tech-test-payment-api\\src\\Pottencial.Core\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\marci\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\marci\\source\\repos\\tech-test-payment-api\\src\\Pottencial.Core.Model\\Pottencial.Core.Model.csproj": {
+              "projectPath": "C:\\Users\\marci\\source\\repos\\tech-test-payment-api\\src\\Pottencial.Core.Model\\Pottencial.Core.Model.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "Flunt": {
+            "target": "Package",
+            "version": "[1.0.5, )"
+          },
+          "Flunt.Br": {
+            "target": "Package",
+            "version": "[1.4.1, )"
+          },
+          "MediatR": {
+            "target": "Package",
+            "version": "[10.0.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+	"info": {
+		"_postman_id": "388f48d9-4018-49f5-8e6a-fbaae8a132e5",
+		"name": "Teste",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "8028292"
+	},
+	"item": [
+		{
+			"name": "ListarVendas",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "InserirVenda",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"Vendedor\":{\r\n        \"CPF\": \"03285050056\",\r\n        \"Email\": \"mail@mail.com\",\r\n        \"Telefone\": \"51993232676\",\r\n        \"Nome\": \"Vendedor Teste\"\r\n    },\r\n    \"Produtos\":[\r\n        {\r\n            \"Nome\": \"Computador\"\r\n        },\r\n        {\r\n            \"Nome\": \"Xadrez\"\r\n        }\r\n    ]\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44317/api/vendas",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44317",
+					"path": [
+						"api",
+						"vendas"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "AtualizaVenda",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"Vendedor\":{\r\n        \"CPF\": \"03285050056\",\r\n        \"Email\": \"mail@mail.com\",\r\n        \"Telefone\": \"51993232676\",\r\n        \"Nome\": \"Vendedor Teste\"\r\n    },\r\n    \"Produtos\":[\r\n        {\r\n            \"Nome\": \"Computador\"\r\n        },\r\n        {\r\n            \"Nome\": \"Xadrez\"\r\n        }\r\n    ]\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44317/api/vendas",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44317",
+					"path": [
+						"api",
+						"vendas"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "BuscarVenda",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "ListarVendas",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tjI1vxo1u33IXhpGj02/SwB1cNiuKdEOhayL5JIwXwC8QDnlmUGu+XG5tItpEAkRo53AaRAnCRWfpcC1BcuWmA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marci\\source\\repos\\tech-test-payment-api\\src\\Pottencial.Core.Model\\Pottencial.Core.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marci\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\marci\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "FejRsthE+Kkil53/pLCkF3Y/xVlAJX6vFv4qTrAg02zJK5Vq12oPbGx10UB9iGJr6fdDlu1rs4BmoTamqDcQkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marci\\source\\repos\\tech-test-payment-api\\src\\Pottencial.Core\\Pottencial.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marci\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512",
+    "C:\\Users\\marci\\.nuget\\packages\\flunt.br\\1.4.1\\flunt.br.1.4.1.nupkg.sha512",
+    "C:\\Users\\marci\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\marci\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

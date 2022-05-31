@@ -1,0 +1,10 @@
+C:\Users\marci\source\repos\tech-test-payment-api\src\Pottencial.Core.Model\bin\Debug\netcoreapp3.1\Pottencial.Core.Model.deps.json
+C:\Users\marci\source\repos\tech-test-payment-api\src\Pottencial.Core.Model\bin\Debug\netcoreapp3.1\Pottencial.Core.Model.dll
+C:\Users\marci\source\repos\tech-test-payment-api\src\Pottencial.Core.Model\bin\Debug\netcoreapp3.1\Pottencial.Core.Model.pdb
+C:\Users\marci\source\repos\tech-test-payment-api\src\Pottencial.Core.Model\obj\Debug\netcoreapp3.1\Pottencial.Core.Model.csproj.AssemblyReference.cache
+C:\Users\marci\source\repos\tech-test-payment-api\src\Pottencial.Core.Model\obj\Debug\netcoreapp3.1\Pottencial.Core.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marci\source\repos\tech-test-payment-api\src\Pottencial.Core.Model\obj\Debug\netcoreapp3.1\Pottencial.Core.Model.AssemblyInfoInputs.cache
+C:\Users\marci\source\repos\tech-test-payment-api\src\Pottencial.Core.Model\obj\Debug\netcoreapp3.1\Pottencial.Core.Model.AssemblyInfo.cs
+C:\Users\marci\source\repos\tech-test-payment-api\src\Pottencial.Core.Model\obj\Debug\netcoreapp3.1\Pottencial.Core.Model.csproj.CoreCompileInputs.cache
+C:\Users\marci\source\repos\tech-test-payment-api\src\Pottencial.Core.Model\obj\Debug\netcoreapp3.1\Pottencial.Core.Model.dll
+C:\Users\marci\source\repos\tech-test-payment-api\src\Pottencial.Core.Model\obj\Debug\netcoreapp3.1\Pottencial.Core.Model.pdb

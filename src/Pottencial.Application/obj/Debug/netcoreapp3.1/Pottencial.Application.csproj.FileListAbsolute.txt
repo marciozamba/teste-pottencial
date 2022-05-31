@@ -1,0 +1,15 @@
+C:\Users\marci\source\repos\tech-test-payment-api\src\Pottencial.Application\bin\Debug\netcoreapp3.1\Pottencial.Application.deps.json
+C:\Users\marci\source\repos\tech-test-payment-api\src\Pottencial.Application\bin\Debug\netcoreapp3.1\Pottencial.Application.dll
+C:\Users\marci\source\repos\tech-test-payment-api\src\Pottencial.Application\bin\Debug\netcoreapp3.1\Pottencial.Application.pdb
+C:\Users\marci\source\repos\tech-test-payment-api\src\Pottencial.Application\bin\Debug\netcoreapp3.1\Pottencial.Core.dll
+C:\Users\marci\source\repos\tech-test-payment-api\src\Pottencial.Application\bin\Debug\netcoreapp3.1\Pottencial.Core.Model.dll
+C:\Users\marci\source\repos\tech-test-payment-api\src\Pottencial.Application\bin\Debug\netcoreapp3.1\Pottencial.Core.Model.pdb
+C:\Users\marci\source\repos\tech-test-payment-api\src\Pottencial.Application\bin\Debug\netcoreapp3.1\Pottencial.Core.pdb
+C:\Users\marci\source\repos\tech-test-payment-api\src\Pottencial.Application\obj\Debug\netcoreapp3.1\Pottencial.Application.csproj.AssemblyReference.cache
+C:\Users\marci\source\repos\tech-test-payment-api\src\Pottencial.Application\obj\Debug\netcoreapp3.1\Pottencial.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marci\source\repos\tech-test-payment-api\src\Pottencial.Application\obj\Debug\netcoreapp3.1\Pottencial.Application.AssemblyInfoInputs.cache
+C:\Users\marci\source\repos\tech-test-payment-api\src\Pottencial.Application\obj\Debug\netcoreapp3.1\Pottencial.Application.AssemblyInfo.cs
+C:\Users\marci\source\repos\tech-test-payment-api\src\Pottencial.Application\obj\Debug\netcoreapp3.1\Pottencial.Application.csproj.CoreCompileInputs.cache
+C:\Users\marci\source\repos\tech-test-payment-api\src\Pottencial.Application\obj\Debug\netcoreapp3.1\Pottencial.Application.csproj.CopyComplete
+C:\Users\marci\source\repos\tech-test-payment-api\src\Pottencial.Application\obj\Debug\netcoreapp3.1\Pottencial.Application.dll
+C:\Users\marci\source\repos\tech-test-payment-api\src\Pottencial.Application\obj\Debug\netcoreapp3.1\Pottencial.Application.pdb

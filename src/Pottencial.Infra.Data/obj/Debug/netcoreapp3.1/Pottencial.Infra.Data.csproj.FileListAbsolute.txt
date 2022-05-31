@@ -1,0 +1,15 @@
+C:\Users\marci\source\repos\tech-test-payment-api\src\Pottencial.Infra.Data\bin\Debug\netcoreapp3.1\Pottencial.Infra.Data.deps.json
+C:\Users\marci\source\repos\tech-test-payment-api\src\Pottencial.Infra.Data\bin\Debug\netcoreapp3.1\Pottencial.Infra.Data.dll
+C:\Users\marci\source\repos\tech-test-payment-api\src\Pottencial.Infra.Data\bin\Debug\netcoreapp3.1\Pottencial.Infra.Data.pdb
+C:\Users\marci\source\repos\tech-test-payment-api\src\Pottencial.Infra.Data\bin\Debug\netcoreapp3.1\Pottencial.Core.dll
+C:\Users\marci\source\repos\tech-test-payment-api\src\Pottencial.Infra.Data\bin\Debug\netcoreapp3.1\Pottencial.Core.Model.dll
+C:\Users\marci\source\repos\tech-test-payment-api\src\Pottencial.Infra.Data\bin\Debug\netcoreapp3.1\Pottencial.Core.Model.pdb
+C:\Users\marci\source\repos\tech-test-payment-api\src\Pottencial.Infra.Data\bin\Debug\netcoreapp3.1\Pottencial.Core.pdb
+C:\Users\marci\source\repos\tech-test-payment-api\src\Pottencial.Infra.Data\obj\Debug\netcoreapp3.1\Pottencial.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\marci\source\repos\tech-test-payment-api\src\Pottencial.Infra.Data\obj\Debug\netcoreapp3.1\Pottencial.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marci\source\repos\tech-test-payment-api\src\Pottencial.Infra.Data\obj\Debug\netcoreapp3.1\Pottencial.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\marci\source\repos\tech-test-payment-api\src\Pottencial.Infra.Data\obj\Debug\netcoreapp3.1\Pottencial.Infra.Data.AssemblyInfo.cs
+C:\Users\marci\source\repos\tech-test-payment-api\src\Pottencial.Infra.Data\obj\Debug\netcoreapp3.1\Pottencial.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\marci\source\repos\tech-test-payment-api\src\Pottencial.Infra.Data\obj\Debug\netcoreapp3.1\Pottencial.Infra.Data.csproj.CopyComplete
+C:\Users\marci\source\repos\tech-test-payment-api\src\Pottencial.Infra.Data\obj\Debug\netcoreapp3.1\Pottencial.Infra.Data.dll
+C:\Users\marci\source\repos\tech-test-payment-api\src\Pottencial.Infra.Data\obj\Debug\netcoreapp3.1\Pottencial.Infra.Data.pdb
